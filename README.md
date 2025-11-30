@@ -80,10 +80,55 @@ airbnb-clone/
 ├── public/
 └── docs/
 
+# Project Roles and Responsibilities
+The following roles are defined for the AirBnB clone project:
+
+# Project Manager
+- Oversees project timeline and coordinates team efforts
+- Manages deliverables and ensures project milestones are met
+- Facilitates communication among team members
+
+# Frontend Developers
+- Implements UI components using HTML, CSS, and JavaScript (React or similar framework)
+- Ensures responsive design and mobile-first approach
+- Collaborates with Designers to implement UI/UX designs
+
+# Backend Developers
+- Builds APIs and manages database design
+- Implements business logic and integrates with frontend
+- Ensures data consistency and security
+
+# Designers
+- Creates mockups and maintains design system
+- Ensures UX quality and visual consistency
+- Collaborates with Frontend Developers to implement designs
+
+# QA/Testers
+- Writes test cases and performs testing
+- Reports bugs and collaborates with team to resolve issues
+- Ensures application meets quality standards
+
+# DevOps Engineers
+- Manages deployment and CI/CD pipeline
+- Ensures server infrastructure is set up and maintained
+- Collaborates with team to ensure smooth deployment
+
+#Product Owner
+- Defines project requirements and prioritizes features
+- Represents stakeholders and ensures project meets their needs
+- Collaborates with team to ensure project success
+
+# Scrum Master
+- Facilitates agile processes and removes blockers
+- Organizes meetings and ensures team is on track
+- Collaborates with Project Manager to ensure project success
+
+
+
 ## Getting Started
 1. Clone the repository
 ```bash
-git clone https://github.com/[your-username]/airbnb-clone-project.git
+git clone https://github.com/sekoni90/airbnb-clone-project.git
 cd airbnb-clone-project
 npm install
 npm start
