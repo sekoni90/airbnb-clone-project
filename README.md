@@ -123,6 +123,12 @@ The following roles are defined for the AirBnB clone project:
 - Organizes meetings and ensures team is on track
 - Collaborates with Project Manager to ensure project success
 
+# UI Component Patterns
+We plan to create the following UI components:
+- Navbar: logo, search bar, user navigation
+- Property Card: image, basic details, favorite button
+- Footer: site links, company info, social media links
+
 
 
 ## Getting Started
